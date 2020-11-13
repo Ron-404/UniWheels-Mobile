@@ -17,10 +17,9 @@
 
 # app desplegada en expo
 
-
 UniWheels Apk android
 
-[![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/accounts/vashigo/builds/edd6541e-5285-4e1f-b278-4131bf4fe89b)
+[![Download](https://img.shields.io/badge/download-1.0-brightgreen.svg)](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vashigo/Uniwheels-Native-b55e1910916e46aeb5d7f2bdc6e69a20-signed.apk)
 
 ## 📚 DOCUMENTACIÓN
 
