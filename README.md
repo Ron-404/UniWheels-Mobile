@@ -19,7 +19,7 @@
 
 UniWheels Apk android
 
-[![Download](https://img.shields.io/badge/download-1.0-brightgreen.svg)](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vashigo/Uniwheels-Native-b55e1910916e46aeb5d7f2bdc6e69a20-signed.apk)
+[![Download](https://img.shields.io/badge/download-1.0-brightgreen.svg)](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40vashigo/Uniwheels-a4aefc7ab17c489d87460e7a4183c6c3-signed.apk)
 
 ## 📚 DOCUMENTACIÓN
 
@@ -38,8 +38,8 @@ Verifique que la instalación se haya realizado correctamente ejecutando expo wh
 ## Aplicación cliente Expo para iOS y Android
 La forma más rápida de empezar a trabajar es utilizar la aplicación cliente Expo en su dispositivo iOS o Android. El cliente de Expo le permite abrir aplicaciones que se sirven a través de Expo CLI.
 
-- 🤖 Android Play Store: Android Lollipop (5) y superior.
-- 🍎 App Store de iOS: iOS 10 y superior.
+- 🤖 Android Play Store: Android Lollipop (5) y superior. [Playstore](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_PR)
+- 🍎 App Store de iOS: iOS 10 y superior. [App store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_PR)
 
 Cuando el cliente de Expo haya terminado de instalarse, ábralo. Si creó una cuenta con expo-cli, puede iniciar sesión aquí en la pestaña "Perfil". Esto le facilitará la apertura de proyectos en el cliente cuando los tenga abiertos en desarrollo; aparecerán automáticamente en la pestaña "Proyectos" de la aplicación cliente.
 

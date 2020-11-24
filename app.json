@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Uniwheels-Native",
-    "slug": "Uniwheels-Native",
+    "name": "Uniwheels",
+    "slug": "Uniwheels",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
